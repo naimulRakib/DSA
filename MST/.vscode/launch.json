@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/naimulislam/Desktop/Level 2-1/CSE DSA Lab/MST",
+      "program": "/Users/naimulislam/Desktop/Level 2-1/CSE DSA Lab/MST/build/Debug/outDebug"
+    }
+  ]
+}
