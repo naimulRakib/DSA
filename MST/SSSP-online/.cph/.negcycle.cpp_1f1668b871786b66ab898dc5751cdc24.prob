@@ -1,0 +1,1 @@
+{"name":"Local: negcycle","url":"/Users/naimulislam/Desktop/Level 2-1/CSE DSA Lab/MST/SSSP-online/negcycle.cpp","tests":[{"id":1783704912349,"input":"5 4\n1 2 10\n3 4 -10\n4 5 2\n5 3 5","output":"3 4 5 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/naimulislam/Desktop/Level 2-1/CSE DSA Lab/MST/SSSP-online/negcycle.cpp","group":"local","local":true}
